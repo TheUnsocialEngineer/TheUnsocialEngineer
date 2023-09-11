@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheUnsocialEngineer
 - 👀 I’m interested in ... Cyber/Infosec
 - 🌱 I’m currently learning ... Python,Rust,Java as well as web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... nothing, i work alone
 - 📫 How to reach me ... you dont
 <!---
 TheUnsocialEngineer/TheUnsocialEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
