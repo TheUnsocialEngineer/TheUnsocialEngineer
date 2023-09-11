@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheUnsocialEngineer
 - 👀 I’m interested in ... Cyber/Infosec
-- 🌱 I’m currently learning ... Python,Rust,Java as well as web development
+- 🌱 I’m currently learning ... Python, Rust, Java as well as web development
 - 💞️ I’m looking to collaborate on ... nothing, i work alone
 - 📫 How to reach me ... you dont
 <!---
